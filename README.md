@@ -3,6 +3,8 @@
 - 👨‍💻 Junior Web Developer & Student at the Federal Institute of Education, Science and Technology of Ceara
 - 🚀 I’m currently learning HTML, CSS, JavaScript, TypeScript, SQL, Node, React, C++
 
+##
+
 <div align="center">
   <a href="https://github.com/natanlimaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanlimaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
